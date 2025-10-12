@@ -39,7 +39,7 @@ Through powerful libraries such as **Prophet**, **scikit-learn**, and **Folium**
 
 ## ⚙️ Project Workflow  
 
-### 1️) Data Import & Preprocessing  
+### 1) Data Import & Preprocessing  
 - Imported dataset using **pandas**.  
 - Checked for null values, duplicates, and data consistency.  
 - Extracted and organized relevant columns such as:
@@ -51,7 +51,7 @@ Through powerful libraries such as **Prophet**, **scikit-learn**, and **Folium**
   - `Congestion Severity`
   - `Traffic Efficiency`
 
-### 2️) Exploratory Data Analysis (EDA)  
+### 2) Exploratory Data Analysis (EDA)  
 Performed comprehensive EDA using **matplotlib** and **seaborn** to understand traffic patterns and visualize relationships:
 - Top 5 most congested areas in Bangalore  
 - Average congestion level by hour  
@@ -60,11 +60,11 @@ Performed comprehensive EDA using **matplotlib** and **seaborn** to understand t
 
 Each visualization provided actionable insights into when and where congestion is most severe.
 
-### 3️) Predictive Forecasting  
+### 3) Predictive Forecasting  
 Utilized **Facebook Prophet** to forecast future congestion levels based on historical data trends.  
 This model predicts traffic behavior across time intervals, helping identify potential future bottlenecks.
 
-### 4️) Geospatial Visualization  
+### 4) Geospatial Visualization  
 Implemented **Folium** and **Branca** to create an **interactive map** of Bangalore displaying:
 - Congested areas  
 - Severity markers (color-coded for easy interpretation)  
@@ -72,7 +72,7 @@ Implemented **Folium** and **Branca** to create an **interactive map** of Bangal
 
 The map provides a real-time visual perspective of the traffic situation.
 
-### 5️) Web Application Integration  
+### 5) Web Application Integration  
 Used **Streamlit** to build an interactive and user-friendly dashboard, combining:
 - Graphical analysis  
 - Predictive charts  
@@ -148,3 +148,4 @@ This project demonstrates how **data analytics, machine learning, and geospatial
 It not only identifies current congestion hotspots but also forecasts future conditions, empowering better urban mobility planning and smarter infrastructure development.
 
 ---
+
