@@ -119,10 +119,10 @@ Used **Streamlit** to build an interactive and user-friendly dashboard, combinin
 
 ##  Sample Output Visuals  
 
-| Visualization | Description |
-|----------------|--------------|
-| ![Traffic Graph Placeholder](https://via.placeholder.com/400x200?text=Top+5+Congested+Areas) | Top 5 congested areas in Bangalore |
-| ![Map Placeholder](https://via.placeholder.com/400x200?text=Folium+Map+of+Bangalore) | Interactive map with congestion markers |
+- [Bangalore Traffic Congestion Map (Wikipedia Commons)](https://upload.wikimedia.org/wikipedia/commons/9/91/Bangalore_traffic_congestion_map.jpg)
+- [Bangalore Traffic Density Map (Open Data)](https://upload.wikimedia.org/wikipedia/commons/f/f4/Bangalore_map_traffic_density.png)
+
+
 
 ---
 
@@ -148,4 +148,5 @@ This project demonstrates how **data analytics, machine learning, and geospatial
 It not only identifies current congestion hotspots but also forecasts future conditions, empowering better urban mobility planning and smarter infrastructure development.
 
 ---
+
 
